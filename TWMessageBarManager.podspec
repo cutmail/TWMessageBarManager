@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author       = { "Terry Worona" => "terryworona@gmail.com" }
   s.source       = {
 	:git => "https://github.com/cutmail/TWMessageBarManager.git",
-	:tag => "v1.3.0"
+	:tag => "v1.3.1"
   }
 
   s.platform = :ios, '6.0'
